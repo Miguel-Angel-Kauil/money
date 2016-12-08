@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Inicio de sesión</title>
+        <link rel="stylesheet" href="<?php echo APP_URL; ?>/views/layouts/default/css/normalize.min.css">
+	    <link rel="stylesheet" href="<?php echo APP_URL; ?>/views/layouts/default/css/bootstrap.min.css">
+	    <link rel="stylesheet" href="<?php echo APP_URL; ?>/views/layouts/default/css/main.css">
+    </head>
+</html>
